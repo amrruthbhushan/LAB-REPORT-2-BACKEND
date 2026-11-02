@@ -1,0 +1,17 @@
+# Git ignore rules for Lab 2
+# These files/folders will NOT be tracked by Git.
+
+# Node.js dependencies (reinstalled via npm install)
+node_modules/
+
+# Environment variables (contains sensitive data)
+.env
+
+# Log files
+*.log
+
+# macOS system file
+.DS_Store
+
+# NOTE: library.db is intentionally NOT ignored.
+# The SQLite database file IS required for submission.
