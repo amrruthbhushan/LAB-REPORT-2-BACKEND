@@ -1,8 +1,8 @@
 # Lab 2: SQLite Database and CRUD Routes
 
 **Student Name:** Amrruth Bhushan  
-**Registration Number:** [Enter your registration number]  
-**Section:** [Enter your section]  
+**Registration Number:** [252U1R5059]  
+**Section:** [AI DE 106]  
 **Branch:** AI & Data Engineering  
 **Campus:** NIAT Aurora  
 **Subject:** Backend Development Fundamentals  
